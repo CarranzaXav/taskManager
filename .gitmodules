@@ -1,0 +1,6 @@
+[submodule "repo-ui"]
+	path = repo-ui
+	url = https://github.com/CarranzaXav/TaskManagerX-ui
+[submodule "repo-api"]
+	path = repo-api
+	url = https://github.com/CarranzaXav/TaskManagerX-api
